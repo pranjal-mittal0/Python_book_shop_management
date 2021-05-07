@@ -1,0 +1,50 @@
+I0001,The Time Machine,H.G.Wells,Random House Publisher,150,Fiction,460
+I0002,Inferno,Dan Brown,RC Publisher,2000,Fiction,497
+I0003,The Alchemist,Paulo Coelho,Harper Collins Publisher,200,Fiction,500
+I0004,The Fault In Our Stars,John Green,penguin books limited,180,Romance,494
+I0005,The Diary of a Young Girl,Anne Frank,Fingerprint publisher,110,Autobiography,500
+I0006,An Equal Music,Vikram Seth,Knopf Doubleday publishing group,900,Literature,500
+I0007,All In One:BIOLOGY,Shikha Sharma,Arihant,400,Subjective,500
+I0008,Objective Biology,Dr.Ali Akhtar,Sasa Publication,800,Subjective,500
+I0009,Plant Molecular Biology,Stanton Gelvin,Springer,6800,Subjective,500
+I0010,Pradeep:Biology,G.Chopra,Pradeep,1000,Subjective,500
+I0011,Godaan,Premchand,Maple press,150,Literature,1000
+I0012,Concise Inorganic,J.D.Lee,Oxford University Press,700,Subjective,1000
+I0013,Advance Organic Chemistry,Arun Bahl,S.chand,1250,Subjective,1000
+I0014,Organometallic Chemistry,RC Malhotra,New Age Publisher,400,Subjective,1000
+I0015,Vibration And Waves,A.P.French,CBS Publisher,200,Subjective,1000
+I0016,Concept Of Physics:PART 1,HC Verma,Bharti Bhawan,300,Subjective,1000
+I0017,Concept Of Physics:PART 2,HC Verma,Bharti Bhawan,300,Subjective,1000
+I0018,Quantum Mechanics,P.Aruldhas,PHI Learning Private,350,Subjective,1000
+I0019,Modern Physics,Ronald Gautreau,Tata McGraw-Hill Education,1500,Subjective,1000
+I0020,Inorganic Chemistry, K.S.Verma,Cengage,700,Subjective,1000
+I0021,Harry Potter And The Philospher stone,J.K.Rowling,Bloomsbury Publisher,399,Fiction,1500
+I0022,Harry Potter And Chamber Of Secrets,J.K.Rowling,Bloomsbury,399,Fiction,1500
+I0023,Harry Potter And Prisoner Of Azkaban,J.K.Rowling,Bloomsbury,399,Fiction,1500
+I0024,Harry Potter And Goblet Of Fire,J.K.Rowling,Bloomsbury,399,Fiction,1500
+I0025,Harry Potter And The Order Of Phoenix,J.K.Rowling,Bloomsbury,399,Fiction,1500
+I0026,Harry Potter And The Half-Blood Prince,J.K.Rowling,Bloomsbury,399,Fiction,1500
+I0027,Harry Potter And The Deathly Hollows,J.K.Rowling,Bloomsbury,800,Fiction,1500
+I0028,Narnia:The Voyage Of The Dawn Trader,C.S.Lewis,Harper Collins Publications,250,Fiction,1500
+I0029,Narnia:The Silver Chair,C.S.Lewis,Harper Collins Publications,250,Fiction,1500
+I0030,Narnia:Prince Caspian,C.S.Lewis,Harper Collins Publications,250,Fiction,2000
+I0031,Narnia:The Last Battle,C.S.Lewis,Harper Collins Publications,250,Fiction,2000
+I0032,Narnia:The Magician's Nephew,C.S.Lewis,Harper Collins Publications,250,Fiction,2000
+I0033,Narnia:The lion The Witch and The Wardrobe,C.S.Lewis,Harper Collins Publications,250,Fiction,2000
+I0034,One Indian Girl,Chetan Bhagat,Rupa Publications,175,Literature,2000
+I0035,One Night At the Call Centre,Chetan Bhagat,Rupa Publications,175,Literature,2000
+I0036,STEVE JOBS:The exclusive biography,Steve jobs,Hodder And Stroughton,345,Autobiography,2000
+I0037,Playing it my way:My Autobiography,Sachin Ramesh Tendulkar,Manjul Publications,499,Autobiography,2500
+I0038,New Simplified Physics (Class 12),S.L.Arora,Dhanpat Rai Publications,400,Subjective,2500
+I0039,Wings of fire:An Autobiography,A.P.J.Abdul Kalam,Universities Press,350,Autobiography,2500
+I0040,Turning Points,A.P.J.Abdul Kalam,Harper Collins,250,Literature,2500
+I0041,The Man Who Knew Infinity,Robert Kanigel,Washington Square Press,950,Autobiography,3000
+I0042,Fifth Mountain,Paulo Coelho,Harper Collins Publications,300,Literature,3000
+I0043,Sherlock Holmes:The Complete Novel And Stories(Vol.1),Sir Arthur Conan Doyle,Random House Publishing Group,300,Literature,3000
+I0044,Sherlock Holmes:The Complete Novel And Stories(Vol.2),Sir Arthur Conan Doyle,Random House Publishing Group,300,Literature,3000
+I0045,Trigonometry,Amit.M.Agrawal,Arihant,265,Subjective,1500
+I0046,Co-ordinate Geometry,S.K.Goyal,Arihant,525,Subjective,1000
+I0047,Algebrafor JEE main and Advanced,S.K.Goyal,Arihant,630,Subjective,1000
+I0048,2 STATES,Chetan Bhagat,Rupa Publications,176,Literature,1800
+I0049,Vector and 3-D Geometry,Amit.M.Agrawal,Arihant,275,Subjective,1000
+I0050,integral Calculus,Amit.M.Agrawal,Arihant,400,Subjective,980
